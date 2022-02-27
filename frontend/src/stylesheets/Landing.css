@@ -1,6 +1,15 @@
-body {
+/*body {
   background-image: url("../images/african-renaissance.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
+}
+*/
+body {
+  margin: 0;
+
+  background: url("../images/african-renaissance.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
